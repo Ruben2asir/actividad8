@@ -5,5 +5,6 @@
  </head>
  <body>
  <?php echo '<h1>Hola mundo</h1>'; ?>
+ <image src="test.jpg"
  </body>
 </html>
